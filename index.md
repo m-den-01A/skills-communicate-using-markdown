@@ -1,5 +1,15 @@
 # Markdown Practice
 
+<details>
+  <summary>Course checklist</summary>
+  <ul>
+    <li>[x] Add header</li>
+    <li>[x] Add image</li>
+    <li>[x] Add codeblock</li>
+    <li>[x] Add list</li>
+    <li>[ ] Add... TBD
+</details>
+
 ### Codeblock! (source: skills-communicate-using-markdown step 3)
 
 ```
